@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrincessSipi
 - 👀 I’m interested in ...Java programming and python programming
-- 🌱 I’m currently learning ..Java and IBM professional Data Science Certification.
+- 🌱 I’m currently learning ..iNeuron's Java with SpringBoot fullstack developer course.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
